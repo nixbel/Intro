@@ -8,7 +8,7 @@
 
 I do AI development — training models for personal and community use and exploring what's possible with machine learning. I'm also studying and getting deeper into data science, one dataset at a time. On the side, I also studying and build web apps and keep things clean with good ol' HTML, CSS, and JavaScript.
 
-Passionate about learning, sharing, and building things that actually help people.
+Passionate about learning, sharing, and building things.
 
 ---
 
