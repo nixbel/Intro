@@ -23,6 +23,7 @@ Passionate about learning, sharing, and building things.
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
 </p>
 
 **AI / ML & Data Science**
