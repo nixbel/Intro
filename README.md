@@ -54,7 +54,7 @@ Passionate about learning, sharing, and building things.
 <p align="left">
   <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-343434?style=flat-square&logo=yolo&logoColor=black" />
 </p>
 
 ---
